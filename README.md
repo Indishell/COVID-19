@@ -1,5 +1,5 @@
 
-<h1> web scrapping code based on python </h1>
+<h1> Scrapping of  COVID19 Details </h1>
 
 Install following libraries if you don't have in your computer <br>
 
