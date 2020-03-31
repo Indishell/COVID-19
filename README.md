@@ -4,7 +4,8 @@
 Install following libraries if you don't have in your computer <br>
 
 <b >  pip installl bs4  <br></b>
-<b> pip install requests </b>
+<b> pip install requests <br> </b>
+<b> pip  install json  </b>
 <p>
   
   It calls the API, using <b>HTTP GET </b> request.
